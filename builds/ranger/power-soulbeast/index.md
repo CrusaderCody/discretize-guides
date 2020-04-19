@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-04-12'
+date: '2020-04-20'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -202,15 +202,14 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 </Grid>
 <Card title="Underwater Guide">
 
-For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your autoattack chain deal good damage. 
+For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your autoattack chain deal good damage. You should swap back to Harpoon gun at the start of the split phase of the Jellyfish Beast in order to range the split adds as well as allowing you to restart your rotation when the split phase ends.
 
 Underwater the pet you use for DPS depends on the situation just like above land:
 - You want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS as well as <Boon name="Fury"/> uptime. You want to use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger, additionally during DPS downtime (The split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime.
 - If you don't need the <Boon name="Fury"/> uptime then you can consider using <Skill id="43068" disableText/> [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) as a DPS pet. You want to use <Skill name="Worldly impact"/> for DPS as well as <Skill id="43068"/> off cd so that you proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
-- Finally when you want to move around very fast then you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. 
+- Finally when you want to move around very fast then you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. **Be careful when you swap pets since you can no longer pet swap in combat.**
 
 **Bonus Tips:**
-- **Be careful when you swap pets since you can no longer pet swap in combat.**
 - <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 
 - **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
 
